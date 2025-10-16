@@ -385,7 +385,7 @@
         const loader = document.getElementById('loader');
         
         // --- API Configuration ---
-        const apiKey = "AIzaSyAjqR2AGOvW-nqQdFGqk1BoXdrsQNMBbEw"; 
+        const apiKey = ""; 
         const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
         
         // --- AI Coordinator Logic ---
